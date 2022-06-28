@@ -6,4 +6,6 @@ I made this proyect with a Kaggle Dataset, getting from some websites like reddi
 Next steps:
   Get a better score predicting the data.
   
+  Keywords(Python, Linear Regression, RandomForestClassifier, Political Lean)
+  
   
